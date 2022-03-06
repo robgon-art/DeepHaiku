@@ -11,6 +11,7 @@ The source code and generated images are released under the [CC BY-SA license](h
 ![CC BYC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ## Google Colabs
+* [Deep Haiku Trainer](https://colab.research.google.com/github/robgon-art/DeepHaiku/blob/main/Deep_Haiku_Train.ipynb)
 * [Deep Haiku Generator](https://colab.research.google.com/github/robgon-art/DeepHaiku/blob/main/Deep_Haiku_Generator.ipynb)
 
 ## Acknowledgements
