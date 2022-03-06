@@ -21,3 +21,4 @@ The source code and generated images are released under the [CC BY-SA license](h
 - R. Caruana, Multitask learning (1997)
 - E. Hu, et al., LoRA: Low-rank Adaptation of Large Language Models (2021)
 - L. Hanu and the Unitary Team, Detoxify (2020)
+- Trained on Haikus collected by [bfbarry](https://www.kaggle.com/bfbarry/haiku-dataset) and [Harshit Jhalani](https://www.kaggle.com/hjhalani30/haiku-dataset) on Kaggle.com
