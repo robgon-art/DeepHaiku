@@ -1,11 +1,11 @@
-# **Let's write a Haiku! First fire up GPT-J. Then give it a prompt.**
-## Generating rhythmic prose after finetuning a large transformer with phonemes
+# **Deep Haiku: Teaching GPT-J to Compose with Syllable Patterns**
+## How to generate rhythmic prose after fine-tuning a large transformer with phonemes
 
 By Robert. A Gonsalves</br>
 
 ![image](https://raw.githubusercontent.com/robgon-art/DeepHaiku/main/deep_haiku.jpg)
 
-You can see my article on Medium.
+You can see my article on [Medium](https://towardsdatascience.com/deep-haiku-teaching-gpt-j-to-compose-with-syllable-patterns-5234bca9701).
 
 The source code and generated images are released under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).</br>
 ![CC BYC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
@@ -23,3 +23,15 @@ The source code and generated images are released under the [CC BY-SA license](h
 - E. Hu, et al., LoRA: Low-rank Adaptation of Large Language Models (2021)
 - L. Hanu and the Unitary Team, Detoxify (2020)
 - Trained on Haikus collected by [bfbarry](https://www.kaggle.com/bfbarry/haiku-dataset) and [Harshit Jhalani](https://www.kaggle.com/hjhalani30/haiku-dataset) on Kaggle.com
+
+## Citation
+To cite this repository:
+```
+@misc{DeepHaiku,
+  author = {Gonsalves, Robert A.},
+  title = {{Deep Haiku: Teaching GPT-J to Compose with Syllable Patterns}},
+  howpublished = {\url{https://github.com/robgon-art/DeepHaiku}},
+  year = 2022,
+  month = February
+}
+```
