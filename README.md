@@ -26,12 +26,13 @@ The source code and generated images are released under the [CC BY-SA license](h
 
 ## Citation
 To cite this repository:
-```
-@misc{DeepHaiku,
-  author = {Gonsalves, Robert A.},
-  title = {{Deep Haiku: Teaching GPT-J to Compose with Syllable Patterns}},
-  howpublished = {\url{https://github.com/robgon-art/DeepHaiku}},
-  year = 2022,
-  month = February
+
+```bibtex
+@software{DeepHaiku,
+  author  = {Gonsalves, Robert A.},
+  title   = {Deep Haiku: Teaching GPT-J to Compose with Syllable Patterns},
+  url     = {https://github.com/robgon-art/DeepHaiku},
+  year    = 2022,
+  month   = February
 }
 ```
