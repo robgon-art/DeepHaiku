@@ -7,7 +7,7 @@ By Robert. A Gonsalves</br>
 
 You can see my article on [Medium](https://towardsdatascience.com/deep-haiku-teaching-gpt-j-to-compose-with-syllable-patterns-5234bca9701).
 
-The source code and generated images are released under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).</br>
+The source code and generated Haikus are released under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).</br>
 ![CC BYC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ## Google Colabs
